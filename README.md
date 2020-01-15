@@ -1,2 +1,6 @@
-# Game Of Nim
-Project Pemograman Berbasis Objek (Java)
+# Kelompok 3 TI02
+
+- Muhammad Ardiansyah
+- Muhammad Fikri
+- Raihan Said
+- Zulkifli Jufri
